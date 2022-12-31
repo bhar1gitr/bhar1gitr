@@ -3,10 +3,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhar1gitr&label=Profile%20views&color=0e75b6&style=flat" alt="bhar1gitr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/bharat sharma" target="blank"><img src="https://img.shields.io/twitter/follow/bharat sharma?logo=twitter&style=for-the-badge" alt="bharat sharma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhar1gitr" alt="bhar1gitr" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bharatsharma" target="blank"><img src="https://img.shields.io/twitter/follow/bharatsharma?logo=twitter&style=for-the-badge" alt="bharatsharma" /></a> </p>
 
 - 🔭 I’m currently working on **Social-Media App(MERN)**
 
@@ -22,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bharat sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharat sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/bharatsharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharatsharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharat sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/bharat_sharma18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat_sharma18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/bharat sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat sharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/bharat_sharma123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharat_sharma123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
