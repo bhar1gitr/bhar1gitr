@@ -1,5 +1,5 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
-<div style=" background-color: white">
+
 <h1 align="center">Hi 👋, I'm Bharat Sharma</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <h5  align="center">Who want's to become an entrepreneur at early stage of his life!!!</h5>
@@ -35,4 +35,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhar1gitr&show_icons=true&locale=en&layout=compact" alt="bhar1gitr" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhar1gitr&show_icons=true&locale=en" alt="bhar1gitr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhar1gitr&" alt="bhar1gitr" /></p>
-</div>
+
