@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhar1gitr&show_icons=true&locale=en" alt="bhar1gitr" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhar1gitr&" alt="bhar1gitr" /></p>
 
+![Build Status](https://img.shields.io/travis/bhar1gitr/repo)
+
