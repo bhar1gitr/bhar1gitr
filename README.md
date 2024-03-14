@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Start-up project<br><br>👨‍💻 All of my projects are available at https://portfolio-bhar1gitr.vercel.app/<br><br>💬 Ask me about WebDevelopment(FullStack),C,C++,Java,MySql<br><br>📫 How to reach me bharatsharma98971@gmail.com<br><br>⚡ Fun fact I am funny
+🔭 I’m currently working on Start-up project<br><br>👨‍💻 All of my projects are available at https://portfolioo-indol.vercel.app/<br><br>💬 Ask me about WebDevelopment(FullStack),C,C++,Java,MySql<br><br>📫 How to reach me bharatsharma98971@gmail.com<br><br>⚡ Fun fact I am funny
 
 
 ## 🌐 Socials:
